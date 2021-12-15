@@ -58,7 +58,7 @@
 			
 			<div class="account_grid">
 				<div class="login-right">
-					<h3>ĐĂNG NHẬP Admin</h3>
+					<h3>ĐĂNG NHẬP Admin1</h3>
 					
 					<form action="login_admin_submit.php" method="post">
 						<div>
